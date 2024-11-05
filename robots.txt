@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwucaugo.github.io/Aqt/sitemap_index.txt
+Sitemap: https://uwucaugo.github.io/Jto/sitemap_index.txt
+Sitemap: https://uwucaugo.github.io/OwD/sitemap_index.txt
+Sitemap: https://uwucaugo.github.io/rfR/sitemap_index.txt
